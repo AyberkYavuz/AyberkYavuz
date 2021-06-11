@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @AyberkYavuz
+- 👀 I’m interested in machine learning, software engineering and python programming.
+- 🌱 I’m currently learning Amazon Technologies like athena, sagemaker, s3, ec2 and so on.
+- 📫 How to reach me: ayberk.yavuz06@gmail.com
