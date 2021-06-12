@@ -1,4 +1,6 @@
 - 👋 Hi, I’m @AyberkYavuz
-- 👀 I’m interested in machine learning, software engineering and python programming.
+- 👀 I’m interested in big data, machine learning, software engineering and python programming.
 - 🌱 I’m currently learning Amazon Technologies like athena, sagemaker, s3, ec2 and so on.
+- 🕺🏻 I'm a salsa dancer.
+- 🧝🏻‍♀️ Norse Mythology Lover!
 - 📫 How to reach me: ayberk.yavuz06@gmail.com or https://www.linkedin.com/in/hikmetyavuz/
